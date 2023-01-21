@@ -1,4 +1,22 @@
 body{
    margin:0;
    padding:0;
+   background-color: #5E90F2;
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+   
 }
+/* .content-block{
+   width:1400px;
+   height:800px; 
+   background-color: #EEE9FA;
+}
+.wrapper{
+   width:80%;
+   margin:20px auto;  
+}
+.header{
+   display: flex;
+   justify-content: space-between;
+} */
